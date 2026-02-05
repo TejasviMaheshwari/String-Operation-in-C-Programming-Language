@@ -33,5 +33,22 @@ gcc stringoperation.c -o stringop
 3. Run the executable:
 ./stringop
 
+## 📸 Project Screenshots
 
+### Main Interface
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/35f4d25a-8023-48ff-a3d7-9d764dec555d" width="700">
+  <br><i>Main Menu and Input Interface</i>
+</p>
+
+### Feature Showcases
+| Case Conversions | String Reversals |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/077e2e31-51a9-4299-a6af-3f7d1c5def68" width="400"> <br> **Uppercase** | <img src="https://github.com/user-attachments/assets/dc240963-f5b5-4768-b2eb-da7692d04300" width="400"> <br> **Reverse String** |
+| <img src="https://github.com/user-attachments/assets/9460a9c3-f845-4bcb-acf1-591cbcdeda76" width="400"> <br> **Lowercase** | <img src="https://github.com/user-attachments/assets/2e685e6b-a2ad-4832-8f24-3cca7963b75b" width="400"> <br> **Reverse on Position** |
+
+### Advanced Operations
+| Formatting | Analytics |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/dbfca648-bc38-486d-bb4d-529e0a5b4168" width="400"> <br> **First Letter Capital** | <img src="https://github.com/user-attachments/assets/348d8ef8-a76c-42a0-9620-73d0c1d07df8" width="400"> <br> **Character Frequency** |
 
