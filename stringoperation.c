@@ -18,7 +18,7 @@ void main()
 char inputString()
 {
     char input[40];
-    printf("***** Welcome to String Operation Project *****\n\n");
+    printf("\n\n***** Welcome to String Operation Project *****\n\n");
     printf("Enter String -- ");
     gets(input);
     printf("\nYou Enter -- %s\n\n",input);
@@ -193,3 +193,4 @@ void reverseOnPosition(char *input)
     printf("%s",input);
     getch();
 }
+
